@@ -45,13 +45,13 @@ h3{
   max-width: 32rem;
   
 }
-.card-wind{
+.card__wind{
     background:linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
-.card-ice{
+.card__ice{
     background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
-.card-flame{
+.card__flame{
      background:linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 
@@ -61,13 +61,13 @@ h3{
   border-radius: 0.7rem;
   box-shadow: 0.3rem 0.3rem 1.5rem rgba(0, 0, 0, 0.15);
 }
-.box-wind{
+.box__wind{
     background:linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
-.box-ice{
+.box__ice{
     background:linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
-.box-flame{
+.box__flame{
      background:linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 hr {
@@ -86,14 +86,14 @@ button {
   font-size: 25px;
 }
 
-.button-wind{
+.button__wind{
     background:linear-gradient(90deg, #d53369 0%, #daae51 100%);
     
 }
-.button-ice{
+.button__ice{
     background:linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
 }
-.button-flame{
+.button__flame{
     background:linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
 }
 .wrapper {
