@@ -17,6 +17,7 @@ h2{
   Font-size: 25px ;
   color: #333;
   text-align: center;
+  margin: auto;
 }
 p {
   Font-size: 1.3rem;
@@ -38,11 +39,12 @@ h3{
   border-radius: 0.7rem;
   box-shadow: 0.3rem 0.3rem 1.5rem rgba(0, 0, 0, 0.15);
   min-width: 25rem;
-  padding: 20px;
+  padding: 10px;
   margin: 20px;
 }
 .card-horizontal {
   max-width: 32rem;
+  margin-right: auto;
   
 }
 .card--wind{
@@ -81,9 +83,11 @@ button {
   cursor: pointer;
   display: block;
   margin: auto;
-  padding: 10px;
+  padding: 11px;
+  padding-right: 20px;
+  padding-left: 20px;
   color: #fff;
-  font-size: 25px;
+  font-size: 15px;
 }
 
 .button--wind{
